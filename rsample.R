@@ -20,3 +20,10 @@ attributes(mpg_gr)
 mpg_gr %>% mutate(grpavg=mean(displ), .keep="used") %>% 
   head(10)
 str(mpg_gr)
+
+class(starwars)
+length(starwars)
+view(table(starwars$hair_color))
+
+
+
