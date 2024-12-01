@@ -29,3 +29,5 @@ view(table(starwars$hair_color))
 
 
 
+xxxxxxxx
+yyyyyyyy
